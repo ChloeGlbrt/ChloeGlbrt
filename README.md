@@ -8,6 +8,14 @@
 </div>
 
 ###
+<center>
+  <ul> 
+    <li>🔭 I’m currently working as <strong>a Full Stack Developer since March 2023</strong></li>
+    <li>⚡ Fun fact <strong>I was a biology engineer for 7 years before becoming a software developer.</strong></li>
+  </ul>
+</center>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
