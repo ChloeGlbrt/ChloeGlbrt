@@ -11,7 +11,7 @@
 <center>
   <ul> 
     <li>🔭 I’m currently working as <strong>a Full Stack Developer since March 2023</strong></li>
-    <li>⚡ Fun fact <strong>I was a biology engineer for 7 years before becoming a software developer.</strong></li>
+    <li>⚡ Fun fact <strong>I was a BiologyEngineer for 7 years before becoming a software developer.</strong></li>
   </ul>
 </center>
 
