@@ -12,7 +12,7 @@
     <li>🔭 I’m currently working as <strong>a Full Stack Developer since March 2023</strong></li>
     <li>⚡ Fun fact <strong>I was a Biology Engineer before becoming a software developer.</strong></li>
     <li><p><strong> 🌲 Clipz Project </strong> (With ZTM) : <a href="https://clipz-1.vercel.app/">Link</a></p></li>
-    <li><p><strong> 🟣🔴 Background color Project </strong> (With ZTM) : <a href="https://background-color-chloe-portfolio.netlify.app/">Link</a></p></li>
+    <li><p><strong> 🟣 Background color Project </strong> (With ZTM) : <a href="https://background-color-chloe-portfolio.netlify.app/">Link</a></p></li>
     <li><p><strong> 🔘 Image Effect Project </strong> (With ZTM) : <a href="https://black-white-filter.vercel.app/">Link</a></p></li>
   </ul>
 </center>
