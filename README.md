@@ -11,10 +11,10 @@
   <ul> 
     <li>🔭 I’m currently working as <strong>a Full Stack Developer since March 2023</strong></li>
     <li>⚡ Fun fact <strong>I was a Biology Engineer before becoming a software developer.</strong></li>
+    <li><p><strong> 🌲 Clipz Project </strong> (With ZTM) : <a href="https://clipz-1.vercel.app/">Link</a></p></li>
+    <li><p><strong> 🟣🔴 Background color Project </strong> (With ZTM) : <a href="https://background-color-chloe-portfolio.netlify.app/">Link</a></p></li>
+    <li><p><strong> 🔘 Image Effect Project </strong> (With ZTM) : <a href="https://image-effect-chloe-galbert.vercel.app/">Link</a></p></li>
   </ul>
-  <p><strong> 🌲 Clipz Project (With ZTM) : </strong></p><a href="https://clipz-1.vercel.app/">Link</a>
-  <p><strong> 🟣🔴 Background color Project (With ZTM) : </strong></p><a href="https://background-color-chloe-portfolio.netlify.app/">Link</a>
-  <p><strong> 🔘 Image Effect Project (With ZTM) : </strong></p><a href="https://image-effect-chloe-galbert.vercel.app/">Link</a>
 </center>
 
 ###
