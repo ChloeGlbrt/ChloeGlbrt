@@ -1,4 +1,4 @@
-<h2 align="center">Salut 👋 ! Je m'appelle Chloé et je suis Développeuse Full Stack Junior</h2>
+<h2 align="center">Bonjour 👋 ! Je m'appelle Chloé et je suis Développeuse Full Stack </h2>
 
 ###
 
