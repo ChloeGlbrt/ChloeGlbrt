@@ -11,7 +11,8 @@
   <ul> 
     <li>🔭 Je travaille actuellement en tant que <strong>Développeuse Full Stack depuis mars 2023</strong></li>
     <li>⚡ Anecdote : <strong>j'étais ingénieure en biologie avant de devenir développeuse.</strong></li>
-    <li><p><strong>♿ RGAA Helper (rgaa-helper-bundle-public) </strong> : écosystème d'outils dédié à l'accessibilité numérique et à la conformité RGAA, composé d'un bundle Docker public pour l'évaluation de la solution, d'un plugin IntelliJ IDEA pour assister les développeurs directement dans leur IDE et d'une plateforme backend privée assurant l'analyse, le reporting et l'exécution des règles d'accessibilité.</p></li>
+    <li><p><strong>♿ RGAA Helper <a href="https://github.com/ChloeGlbrt/rgaa-helper-bundle-public">(rgaa-helper-bundle-public)</a> </strong> : écosystème d'outils dédié à l'accessibilité numérique et à la conformité RGAA, composé d'un bundle Docker public pour l'évaluation de la solution, d'un plugin IntelliJ IDEA pour assister les développeurs directement dans leur IDE et d'une plateforme backend privée assurant l'analyse, le reporting et l'exécution des règles d'accessibilité.</p></li>
+    <p>Le Plugin est en attente d'approbation sur le MarketPlace d'IntelliJ</p>
     <p><strong>Autres petits projets</strong></p>
     <li><p><strong>🟣 Projet Couleur d'arrière-plan</strong> (avec ZTM) : <a href="https://background-color-chloe-portfolio.netlify.app/">Lien</a></p></li>
     <li><p><strong>🔘 Projet Effet d'image</strong> (avec ZTM) : <a href="https://black-white-filter.vercel.app/">Lien</a></p></li>
