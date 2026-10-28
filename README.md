@@ -11,15 +11,8 @@
   <ul> 
     <li>🔭 Je travaille actuellement en tant que <strong>Développeuse Full Stack depuis mars 2023</strong></li>
     <li>⚡ Anecdote : <strong>j'étais ingénieure en biologie avant de devenir développeuse.</strong></li>
-    <li><p><strong>♿ RGAA Helper</strong> : aide à contrôler l'accessibilité tout en développant une application web. L'outil en vérifie automatiquement une partie et prépare le reste : 5 critères entièrement, 26 de façon assistée (l'outil détecte, un humain tranche), 75 restent manuels. Il ne remplace pas un audit.
-    <ol><li>Contient un Plugin IntelliJ qui souligne les problèmes dans le code et propose des QuickFix.</li>
-    <li>Commande rgaa-runtime: Ouvre un vrai navigateur, visite les pages, les vérifie et écrit un rapport.</li>
-      <li>Serveur et tableau de bord: Lance et consulte les analyses depuis une page web, avec historique</li>
-    </ol>
-    </p>
-    </li>
+    <li><p><strong>♿ RGAA Helper (rgaa-helper-bundle-public) </strong> : écosystème d'outils dédié à l'accessibilité numérique et à la conformité RGAA, composé d'un bundle Docker public pour l'évaluation de la solution, d'un plugin IntelliJ IDEA pour assister les développeurs directement dans leur IDE et d'une plateforme backend privée assurant l'analyse, le reporting et l'exécution des règles d'accessibilité.</p></li>
     <p><strong>Autres petits projets</strong></p>
-    <li><p><strong>🌲 Projet Clipz</strong> (avec ZTM) : <a href="https://clipz-1.vercel.app/">Lien</a></p></li>
     <li><p><strong>🟣 Projet Couleur d'arrière-plan</strong> (avec ZTM) : <a href="https://background-color-chloe-portfolio.netlify.app/">Lien</a></p></li>
     <li><p><strong>🔘 Projet Effet d'image</strong> (avec ZTM) : <a href="https://black-white-filter.vercel.app/">Lien</a></p></li>
   </ul>
